@@ -2,6 +2,7 @@
 
 | Name | Site | Raw Hosts | License | Description | Included in |
 |------|------|-----------|---------|-------------|-------------|
+0kJackoo's Personal List | | [raw](https://raw.githubusercontent.com/0kJackoo/hosts/main/personalhosts/hosts) | MIT | Hosts file created by me containing anything that isnt in the main lists | base
 AdAway |[site](https://adaway.org/) | [raw](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | CC BY 3.0 | AdAway is an open source ad blocker for Android using the hosts file | base
 add.2o7Net | [site](https://github.com/FadeMind/hosts.extras/tree/master/add.2o7Net) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | MIT | 2o7Net tracking sites based on [hostsfile.org](https://hostsfile.org/) content | base
 add.Dead | [site](https://github.com/FadeMind/hosts.extras/tree/master/add.Dead) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | MIT | Dead sites based on [hostsfile.org](https://hostsfile.org/) content | base
