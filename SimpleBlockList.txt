@@ -1,19 +1,61 @@
 [uBlock Origin]
-! Title: SimpleBlockList
+! Title: DeClutterTheWeb
 ! Expires: 3 days
-! Version: 0.0.1
+! Version:
 
-! Block Twitch Ads
-twitch.tv##.player-ad-overlay.player-overlay
-twitch.tv##.player-ad-video
-twitch.tv##.player-ad-container
-twitch.tv##.js-player-ad-overlay
-twitch.tv##.player-ad-background-gradient
-twitch.tv##.channel-header__user-menu [data-a-target="prime-promotion-link"]
-twitch.tv##.community-points-summary
-twitch.tv##.top-nav__primecrown
-twitch.tv##.tw-absolute.tw-full-height.tw-full-width.tw-hidden.tw-left.tw-top.video-player__ad-container.tw-z-above
-twitch.tv##.prime-upsell-root
-twitch.tv##.community-points-summary
-twitch.tv##.player-ad-container.player-overlay
-twitch.tv##.whispers-tab-container [data-test-selector="whispers-tab-container__prime-offer"]
+!------------ blocking commonly misused tlds ------------!
+
+! Equatorial Guinea
+||*.gq^
+
+! Tokelau
+||*.tk^
+google.com/search*##div.g:not([data-hveid]):has(h3 > a[href*=".tk/"])
+
+! Palau
+||*.pw^
+
+! Gabon
+||*.ga^
+
+! Mali
+||*.ml^
+
+! Central African Republic
+||*.cf^
+
+! Somalia
+||*.so^
+
+! Cameroon (common typo for .com)
+||*.cm^
+
+! Soviet Union
+||*.su^
+
+! Other International TLDs
+
+||*.loan^
+||*.agency^
+||*.gdn^
+||*.bid^
+||*.ooo^
+||*.monster^
+||*.discount^
+||*.buzz^
+||*.life^
+||*.live^
+||*.xyz^
+||*.xin^
+||*.country^
+||*.racing^
+||*.jetzt^
+||*.win^
+||*.vip^
+||*.ren^
+||*.kim^
+||*.mom^
+||*.party^
+||*.wang^
+||*.zip^
+||*.review^
