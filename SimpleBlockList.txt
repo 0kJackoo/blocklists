@@ -10,7 +10,6 @@
 
 ! Tokelau
 ||*.tk^
-google.com/search*##div.g:not([data-hveid]):has(h3 > a[href*=".tk/"])
 
 ! Palau
 ||*.pw^
