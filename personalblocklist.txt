@@ -2,7 +2,7 @@
 ! Title: Extras - Personal Filters
 ! Expires: 3 Days
 
-! Blocking bad country tlds
+! Blocking misused country tlds
 
 ! ||*.tk^
 ! ||*.ml^
