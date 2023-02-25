@@ -5,8 +5,8 @@
 ! Blocking commonly misused country tlds
 
 ! ||*.tk^
-! ||*.ml^
 
+||*.ml^
 ||*.gq^
 ||*.so^
 ||*.ga^
@@ -16,7 +16,14 @@
 
 ! Blocking above tlds from google searches
 
+!!!www.google.*##.g:has(a[href*=".tk/"]:not([href*="google.tk"], [href*="coolcmd.tk"], [href*="budterence.tk"], [href*="transportnews.tk"], [href*="c0d3c.tk"], [href*="tokelau-info.tk"], [href*="loljp-wiki.tk"], [href*="ninetail.tk"], [href*="goshujin.tk"], [href*="graph.tk"], [href*="nolfrevival.tk"], [href*="bstweaker.tk"], [href*="nbd-media.tk"], [href*="gotofap.tk"], [href*="coppersurfer.tk"], [href*="fakaofo.tk"]))
 www.google.*##.g:has(a[href*=".ga/"]:not([href*="google.ga"], [href*="filtri-dns.ga"], [href*="dgdi.ga"], [href*="9191.ga"], [href*="animevsub.ga"], [href*="my.ga"]))
+www.google.*##.g:has(a[href*=".ml/"]:not([href*="google.ml"], [href*="melody.ml"], [href*="info-matin.ml"], [href*="amap.ml"], [href*="mastodon.ml"], [href*="nothingprivate.ml"], [href*="lingva.ml"], [href*="lemmy.ml"], [href*="beatbump.ml"], [href*="prompt.ml"], [href*="biblioreads.ml"]))
+www.google.*##.g:has(a[href*=".gq/"]:not([href*="inege.gq"], [href*="tvgelive.gq"]))
+www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"]))
+www.google.*##.g:has(a[href*=".cm/"]:not([href*="google.cm"]))
+www.google.*##.g:has(a[href*=".so/"]:not([href*="google.so"]))
+www.google.*##.g:has(a[href*=".pw/"]:not([href*="libgen.pw"], [href*="petridish.pw"], [href*="palaugov.pw"], [href*="dpc.pw"], [href*="buttercup.pw"], [href*="rezka.pw"], [href*="darkcrystal.pw"], [href*="xor.pw"], [href*="fullhdfilmizlesene.pw"], [href*="gopass.pw"], [href*="vost.pw"], [href*="core.pw"], [href*="bittor.pw"]))
 
 ! Blocking commonly misused international tlds
 
