@@ -1,4 +1,7 @@
 [Ublock Origin]
-
 ! Title: Extras - Personal Filters
 ! Expires: 3 Days
+
+! Blocking bad country tlds
+
+||*.gq^
