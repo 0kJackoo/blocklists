@@ -4,4 +4,28 @@
 
 ! Blocking bad country tlds
 
+! ||*.tk^
+! ||*.ml^
+
 ||*.gq^
+||*.so^
+||*.ga^
+||*.cf^
+||*.pw^
+||*.cm^
+
+! Blocking international tlds
+
+||*.top^
+||*.loan^
+||*.agency^
+||*.gdn^
+||*.bid^
+||*.ooo^
+||*.monster^
+||*.sbs^
+||*.discount^
+||*.cfd^
+||*.xin^
+||*.win^
+||*.zip^
