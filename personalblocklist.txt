@@ -14,6 +14,8 @@
 ||*.pw^
 ||*.cm^
 
+! Blocking above tlds from google searches
+
 www.google.*##.g:has(a[href*=".ga/"]:not([href*="google.ga"], [href*="filtri-dns.ga"], [href*="dgdi.ga"], [href*="9191.ga"], [href*="animevsub.ga"], [href*="my.ga"]))
 
 ! Blocking commonly misused international tlds
