@@ -51,3 +51,15 @@ www.google.*##.g:has(a[href*="/redirect.asp?url="]):has(a[href*=".tk/"], a[href*
 www.google.*##.g:has(a[href*="/go_links.php?"]):has(a[href*=".tk/"], a[href*=".ml/"])
 www.google.*##.g:has(a[href*="/redir?dir="]):has(a[href*=".tk/"], a[href*=".ml/"])
 www.google.*##.g:has(a[href*="/link?url="]):has(a[href*=".tk/"], a[href*=".ml/"])
+
+! iq tests that make you take the test and then pay for results
+
+||funeducation.com^
+||iq-research.info^
+||iq-test.co.uk^
+||iqtest.co.uk^
+||iqtest.com^
+||iqtestnow.org^
+||iqtestonline24.com^
+||test-iq.org^
+||officialiqtests.com^
