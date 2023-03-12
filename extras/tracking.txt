@@ -1,3 +1,0 @@
-[uBlock Origin]
-! Title: Extras - Tracking
-! Expires: 3 Days
