@@ -2,5 +2,5 @@
 ! Description: Whitelist for AdguardHome to be used with Hagezi ultimate, tif, ddns, doh, tlds, wildcards, regex and his whitelists
 ! Expires: 1 Day
 
-@@||video.twimg.com^
-@@||vid.twimg.com^
+video.twimg.com
+vid.twimg.com
