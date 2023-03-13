@@ -6,7 +6,7 @@
 
 #### LIGHT
 
-#### NORMAL
+#### NORMAL (Recommended)
 
 #### PRO
 
