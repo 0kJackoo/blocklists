@@ -14,6 +14,10 @@ https://someonewhocares.org/hosts/zero/hosts
 
 #### BASIC
 
+```
+mini.txt
+```
+
 #### LIGHT
 
 #### NORMAL (Recommended)
