@@ -10,4 +10,6 @@
 
 #### PRO
 
+#### PRO+
+
 #### ULTIMATE
