@@ -14,6 +14,12 @@ https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tr
 https://someonewhocares.org/hosts/zero/hosts
 ```
 
+##### WHITELIST
+
+```
+mini_whitelist.txt
+```
+
 #### BASIC
 
 ```
