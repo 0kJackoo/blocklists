@@ -2,6 +2,8 @@
 
 #### MINI
 
+##### BLACKLIST
+
 ```
 https://adaway.org/hosts.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
