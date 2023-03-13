@@ -27,7 +27,6 @@ mini_whitelist.txt
 
 ```
 mini.txt
-https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 ```
 
 ##### WHITELIST
@@ -42,6 +41,7 @@ basic_whitelist.txt
 
 ```
 basic.txt
+https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 ```
 
 ##### WHITELIST
