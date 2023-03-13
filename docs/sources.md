@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
 ```
 
