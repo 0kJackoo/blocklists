@@ -39,13 +39,13 @@ basic_whitelist.txt
 ##### BLACKLIST
 
 ```
-
+basic.txt
 ```
 
 ##### WHITELIST
 
 ```
-
+light_whitelist.txt
 ```
 
 ### NORMAL (Recommended)
@@ -53,13 +53,13 @@ basic_whitelist.txt
 ##### BLACKLIST
 
 ```
-
+light.txt
 ```
 
 ##### WHITELIST
 
 ```
-
+normal_whitelist.txt
 ```
 
 ### PRO
@@ -67,13 +67,13 @@ basic_whitelist.txt
 ##### BLACKLIST
 
 ```
-
+normal.txt
 ```
 
 ##### WHITELIST
 
 ```
-
+pro_whitelist.txt
 ```
 
 ### ULTIMATE
@@ -81,11 +81,11 @@ basic_whitelist.txt
 ##### BLACKLIST
 
 ```
-
+pro.txt
 ```
 
 ##### WHITELIST
 
 ```
-
+ultimate_whitelist.txt
 ```
