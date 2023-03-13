@@ -13,16 +13,10 @@ https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://someonewhocares.org/hosts/zero/hosts
 ```
 
-### BASIC
-
-```
-mini.txt
-```
-
 ### LIGHT
 
 ```
-basic.txt
+mini.txt
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 ```
 
