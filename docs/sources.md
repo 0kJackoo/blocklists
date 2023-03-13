@@ -17,7 +17,7 @@ https://someonewhocares.org/hosts/zero/hosts
 
 ```
 mini.txt
-https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt
 ```
 
 
