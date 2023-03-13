@@ -30,26 +30,62 @@ mini.txt
 
 ##### WHITELIST
 
+```
+basic_whitelist.txt
+```
+
 ### LIGHT
 
 ##### BLACKLIST
 
+```
+
+```
+
 ##### WHITELIST
+
+```
+
+```
 
 ### NORMAL (Recommended)
 
 ##### BLACKLIST
 
+```
+
+```
+
 ##### WHITELIST
+
+```
+
+```
 
 ### PRO
 
 ##### BLACKLIST
 
+```
+
+```
+
 ##### WHITELIST
+
+```
+
+```
 
 ### ULTIMATE
 
 ##### BLACKLIST
 
+```
+
+```
+
 ##### WHITELIST
+
+```
+
+```
