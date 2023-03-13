@@ -20,16 +20,36 @@ https://someonewhocares.org/hosts/zero/hosts
 mini_whitelist.txt
 ```
 
-#### BASIC
+### BASIC
+
+##### BLACKLIST
 
 ```
 mini.txt
 ```
 
-#### LIGHT
+##### WHITELIST
 
-#### NORMAL (Recommended)
+### LIGHT
 
-#### PRO
+##### BLACKLIST
 
-#### ULTIMATE
+##### WHITELIST
+
+### NORMAL (Recommended)
+
+##### BLACKLIST
+
+##### WHITELIST
+
+### PRO
+
+##### BLACKLIST
+
+##### WHITELIST
+
+### ULTIMATE
+
+##### BLACKLIST
+
+##### WHITELIST
